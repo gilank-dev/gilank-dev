@@ -3,6 +3,12 @@
   <p><strong>AI-Native Software Engineer &bull; Full-Stack Web, Local AI &amp; Systems</strong></p>
   <p>Architecting secure multi-tenant web apps, running local LLMs, building autonomous agent loops, and shipping at high velocity through vibe coding.</p>
 
+  <p>
+    <a href="https://lankdev.my.id">
+      <img src="https://img.shields.io/badge/Portfolio-lankdev.my.id-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+    </a>
+  </p>
+
   <br />
 
   <p>
@@ -110,9 +116,9 @@
 ### Activity &amp; Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilank-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=gilank-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilank-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gilank-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
 </div>
 
 <br />
@@ -128,6 +134,10 @@
 ### Connect
 
 <div align="center">
+  <a href="https://lankdev.my.id">
+    <img src="https://img.shields.io/badge/WEBSITE-lankdev.my.id-3178C6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;
   <a href="https://github.com/gilank-dev">
     <img src="https://img.shields.io/badge/GITHUB-gilank--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -140,5 +150,6 @@
 </div>
 
 <br />
+
 
 
