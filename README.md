@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Gilank</h1>
-  <p><strong>Software Engineer &bull; Full-Stack Web, AI Automation &amp; Systems</strong></p>
-  <p>Building secure multi-tenant architectures, modern web interfaces, automated workflows, and server environments.</p>
+  <p><strong>Software Engineer &bull; Full-Stack Web, Agentic AI &amp; Systems Infrastructure</strong></p>
+  <p>Architecting secure multi-tenant platforms, autonomous AI workflows, modern web interfaces, and server environments.</p>
 
   <p>
     <a href="mailto:gilank.dev@gmail.com">
@@ -38,22 +38,24 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h4>Backend &amp; Database</h4>
+      <h4>Backend, Database &amp; Cache</h4>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=postman&logoColor=white" alt="REST API" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
       </p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>Linux &amp; Systems Networking</h4>
+      <h4>Linux, DevOps &amp; Networking</h4>
       <p>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -61,22 +63,29 @@
         <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
       </p>
       <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
         <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-        <img src="https://img.shields.io/badge/SSH-4EAA25?style=flat-square&logo=ssh&logoColor=white" alt="SSH" />
-        <img src="https://img.shields.io/badge/TCP/IP_&_DNS-0052CC?style=flat-square&logo=wireguard&logoColor=white" alt="Networking" />
+        <img src="https://img.shields.io/badge/SSH_&_DNS-0052CC?style=flat-square&logo=wireguard&logoColor=white" alt="SSH and DNS" />
       </p>
     </td>
     <td valign="top" width="50%">
-      <h4>AI &amp; Workflow Automation</h4>
+      <h4>Agentic AI &amp; Workflow Automation</h4>
       <p>
         <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+        <img src="https://img.shields.io/badge/OpenClaw-FF4500?style=flat-square&logo=githubactions&logoColor=white" alt="OpenClaw Agent" />
+        <img src="https://img.shields.io/badge/Hermes_Agent-7928CA?style=flat-square&logo=huggingface&logoColor=white" alt="Hermes Agent" />
       </p>
       <p>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
         <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
         <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/MCP_Protocol-181717?style=flat-square&logo=json&logoColor=white" alt="Model Context Protocol" />
+        <img src="https://img.shields.io/badge/Tool_Calling-009688?style=flat-square&logo=fastapi&logoColor=white" alt="Tool Calling" />
         <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Webhooks" />
       </p>
     </td>
