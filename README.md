@@ -134,16 +134,16 @@
 ### Connect
 
 <div align="center">
-  <a href="https://lankdev.my.id">
+  <a href="https://lankdev.my.id" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-lankdev.my.id-3178C6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   &nbsp;
-  <a href="https://github.com/gilank-dev">
+  <a href="https://github.com/gilank-dev" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-gilank--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:gilank.dev@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-gilank.dev%40gmail.com-007ACC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gilank.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-gilank.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/LOCATION-INDONESIA-4A5568?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
